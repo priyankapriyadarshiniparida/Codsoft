@@ -1,0 +1,23 @@
+.navbar-brand{
+    font-family:Tac_One ;
+    font-size: 40px;
+    color: cornflowerblue;
+}
+.d-flex{
+    width: 40%;
+    align-content: end;
+}
+.card{
+    padding: 20px;
+}
+.carousel-inner{
+    padding-top: 100px;
+}
+.navbar{
+    position: fixed;
+    z-index: 99;
+    width: 100%;
+}
+.fulldody{
+    background-color: black;
+}
